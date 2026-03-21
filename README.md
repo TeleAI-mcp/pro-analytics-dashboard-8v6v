@@ -1,2 +1,3 @@
-# pro-analytics-dashboard-8v6v
-A analytics dashboard for modern development workflows
+# Pro Analytics Dashboard 8V6V
+
+A analytics dashboard for modern development workflows.
